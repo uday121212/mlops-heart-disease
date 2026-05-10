@@ -17,3 +17,6 @@ mlartifacts/
 .vscode/
 build/
 dist/
+
+# Office temp lock files
+~$*
