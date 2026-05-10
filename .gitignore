@@ -20,3 +20,8 @@ dist/
 
 # Office temp lock files
 ~$*
+
+# Large demo media (shared via Google Drive, not committed)
+video/*.mov
+video/*.mp4
+video/*.mkv

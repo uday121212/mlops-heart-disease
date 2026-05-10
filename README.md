@@ -4,6 +4,14 @@ End-to-end MLOps project that trains, packages, deploys, and monitors a binary c
 
 [![CI/CD](https://github.com/uday121212/mlops-heart-disease/actions/workflows/ci.yml/badge.svg)](./.github/workflows/ci.yml)
 
+## Demo Video
+
+A full project walkthrough is available on Google Drive:
+
+[**Watch the demo video**](https://drive.google.com/file/d/1jNtpcas45VublVSxIq0Rsypwvtw1Fdxu/view?usp=sharing)
+
+See [video/README.md](video/README.md) for direct-download instructions.
+
 ## Architecture
 
 ```
